@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is a basic Express server.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Cline",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-static": "^1.0.3",
+    "path": "^0.12.7"
+  }
+}
